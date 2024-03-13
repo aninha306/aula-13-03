@@ -6,7 +6,7 @@ const Title = ({title}) => {
     <View>
       <Text style={styles.title}>{title}</Text>
     </View>
-  )
+  );
 }
 
 export default Title

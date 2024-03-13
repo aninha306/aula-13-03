@@ -6,6 +6,11 @@ const styles = StyleSheet.create({
         justifyContent: "center",
         alignItems: 'center',
     },
+    button: {
+        backgroundColor: "pink",
+        padding: 20,
+        borderRadius: 5,
+    }
 });
 
 export default styles;
